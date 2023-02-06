@@ -106,7 +106,7 @@ input[type='number'] {
 
 .btn {
   cursor: pointer;
-  background-color: #23d61d;
+  background-color: #2ecc71;
   box-shadow: var(--box-shadow);
   color: #fff;
   border: 0;
@@ -141,11 +141,11 @@ input[type='number'] {
 }
 
 .transactions li.plus {
-  border-right: 5px solid #2ecc71;
+  border-right: 10px solid #2ecc71;
 }
 
 .transactions li.minus {
-  border-right: 5px solid #c0392b;
+  border-right: 10px solid #c0392b;
 }
 
 .delete-btn {
